@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **anything related to full stack development**
 
-- 👨‍💻 All of my projects are available at [kazuma.in](kazuma.in)
+- 👨‍💻 All of my projects are available at [kazuma.in](https://kazuma.in)
 
 - 💬 Ask me about **react, vue, nextjs and linux**
 
