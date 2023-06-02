@@ -12,15 +12,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kazuma-0" alt="kazuma-0" /></a> </p>
 
-- 🔭 I’m currently working on [a government project](https://github.com/orgs/KAHE-CS)
+- 🔭 I’m currently working on an app for visualizing metrics of a VPS
 
-- 🌱 I’m currently learning **Unreal engine, blender**
+- 🌱 I’m currently learning **Blender**
 
-- 👯 I’m looking to collaborate on **anything related to full stack development**
+- 👯 I’m looking to collaborate on **anything related to full stack and app development**
 
 - 👨‍💻 All of my projects are available at [kazuma.in](https://kazuma.in)
 
-- 💬 Ask me about **react, vue, nextjs and linux**
+- 💬 Ask me about **react, vue, nextjs, flutter and linux**
 
 - 📫 How to reach me **hello@kazuma.in**
 
